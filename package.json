@@ -19,6 +19,7 @@
         "glob": "^7.1.6",
         "gzip-size": "^5.1.1",
         "javascript-stringify": "^2.0.1",
+        "jsdom": "^23.2.0",
         "jsesc": "^3.0.1",
         "lodash.merge": "^4.6.2",
         "terser": "^5.15.0"
@@ -67,8 +68,5 @@
         "jest": "^26.1.0",
         "lint-staged": "^10.1.0",
         "prettier": "^2.0.2"
-    },
-    "optionalDependencies": {
-        "puppeteer": "^2.1.1"
     }
 }
